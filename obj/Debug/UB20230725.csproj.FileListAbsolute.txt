@@ -1,0 +1,8 @@
+C:\Work\UB20230725\bin\Debug\UB20230725.exe.config
+C:\Work\UB20230725\bin\Debug\UB20230725.exe
+C:\Work\UB20230725\bin\Debug\UB20230725.pdb
+C:\Work\UB20230725\obj\Debug\UB20230725.csproj.AssemblyReference.cache
+C:\Work\UB20230725\obj\Debug\UB20230725.csproj.SuggestedBindingRedirects.cache
+C:\Work\UB20230725\obj\Debug\UB20230725.csproj.CoreCompileInputs.cache
+C:\Work\UB20230725\obj\Debug\UB20230725.exe
+C:\Work\UB20230725\obj\Debug\UB20230725.pdb
